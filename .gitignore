@@ -23,9 +23,10 @@
 hs_err_pid*
 
 .classpath
-.settings/*
+.settings/
 .project
 .iml
-
+.idea
+.idea/
 bin/
 
